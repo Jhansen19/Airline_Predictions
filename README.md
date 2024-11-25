@@ -2,7 +2,7 @@
 
 This project was built for Big Data Access and Management course at Indiana University. The purpose of the project was to implement a portion of a data pipeline from ingesting through to transformation techniques and dropping into gold container on the datalake.
 
-I had not built a data pipeline before so this was a difficult project to implement and had a high learning curve. 
+I had not built a data pipeline before so this was a difficult project to implement and had a high learning curve. The main deliverable was the Final Project Report. I also add the Documentation Guide that shows additional screenshots of what services were used and how they were implemented.
 
 ### Where to find reports and files:
 Final project report here: https://github.com/Jhansen19/Airline_Predictions/blob/main/Final%20Project%20-%20Report.pdf
