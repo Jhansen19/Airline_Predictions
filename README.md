@@ -21,8 +21,7 @@
 6. [Security & Reliability](#security--reliability)  
 7. [Results](#results)  
 8. [Future Improvements](#future-improvements)  
-9. [References](#references)  
-10. [License](#license)  
+9. [Where to find reports and files](#Where-to-find-reports-and-files) 
 
 ---
 
@@ -161,7 +160,7 @@ Modern machine learning pipelines require handling massive datasets reliably and
 
 ---
 
-### Where to find reports and files:
+### Where to find reports and files
 - Final project report here: https://github.com/Jhansen19/Airline_Predictions/blob/main/Final%20Project%20-%20Report.pdf
 
 - Further Documenation Guide posted here: https://github.com/Jhansen19/Airline_Predictions/blob/main/Documentation_Guide.pdf
